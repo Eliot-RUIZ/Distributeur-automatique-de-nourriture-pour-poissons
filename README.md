@@ -1,4 +1,4 @@
-# Distributeur automatique de nourriture pour poissons
+# Distrifood
 Bonjour,
 
 Voici le code du distributeur automatique.
